@@ -1,9 +1,0 @@
-.logo {
-  &__image {
-    height: 46px;
-
-    @include onDesktop {
-      height: 87px;
-    }
-  }
-}
