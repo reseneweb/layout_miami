@@ -3,8 +3,21 @@
 THE MET - The Metropolitan Museum of Art presents over 5,000 years of art from around the world for everyone to experience and enjoy.
 
 The project uses SASS, HTML, JS, BEM.
-The project used: hover styles, scrolling out, smooth page navigation from the menu, form, placeholders and others.
-The project was made according to the figma layout.
+
+And BEM methodology to simplify and speed up development.
+
+The project is structured using semantic tags.
+
+The project used: hover styles, transformation, scrolling out, smooth page navigation from the menu, form, placeholders and others.
+
+The site is responsive and has formats for any device: 
+
+Desktop>1024px 
+
+Mobile>320px
+
+
+The project was made according to the 12-column figma layout.
 
 Project link:
 https://reseneweb.github.io/layout_miami/
