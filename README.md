@@ -16,6 +16,7 @@ Desktop>1024px
 
 Mobile>320px
 
+Most of the elements on the page are done interactively.
 
 The project was made according to the 12-column figma layout.
 
